@@ -1,0 +1,10 @@
+INSTRUCCIONES PARA INSTALAR COLORMAKER:
+
+1. Abre "python-3.9.7-amd64"
+2. Haz click en la palomita que dice "Add Python 3.9 to PATH"
+3. Haz click en "Install Now"
+4. Si te sale la ventana de "¿Quieres que este programa haga cambios en tu PC?", haz click en Sí
+5. Espera hasta que finalice la instalacion
+6. Haz click en "Close" una vez instalado
+7. Abre "colormaker"
+8. ¡Listo!
